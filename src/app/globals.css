@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Global Strict Dark Mode CSS Fallbacks */
+/* If Tailwind compilation fails, the dApp will mechanically fallback to dark mode visually */
+html,
+body {
+  background-color: #030712 !important; /* Tailwind gray-950 absolute hex enforcement */
+  color: #ffffff !important;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
