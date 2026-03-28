@@ -40,7 +40,7 @@ To spin up the aggregator locally on your own machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/monad-batch-swap.git
+   git clone https://github.com/NuriBartu05/MonadSuperDex.git
    cd monad-batch-swap
    ```
 
