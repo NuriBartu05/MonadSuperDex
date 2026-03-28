@@ -1,4 +1,4 @@
-# Monad Dynamic Batch Swap MVP
+# Monad Super Dex
 
 ### Production-ready multi-token swap orchestrator natively optimized for Monad Testnet execution.
 
